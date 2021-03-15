@@ -1,1 +1,1 @@
-# NonViolentCommunicationInAgileTeams
+# Non violent communication in agile teams
