@@ -6,37 +6,37 @@
 
 ## English version
 
-![Slide 1](./img/Slide1.png)  
+![Slide 1](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide1.PNG)  
 ___
 
-![Slide 3](./img/Slide3.png)  
+![Slide 3](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide3.PNG)  
 ___
 
-![Slide 4](./img/Slide4.png)  
+![Slide 4](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide4.PNG)  
 ___
 
-![Slide 5](./img/Slide5.png)  
+![Slide 5](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide5.PNG)  
 ___
 
-![Slide 6](./img/Slide6.png)  
+![Slide 6](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide6.PNG)  
 ___
 
-![Slide 7](./img/Slide7.png)  
+![Slide 7](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide7.PNG)  
 ___
 
-![Slide 8](./img/Slide8.png)  
+![Slide 8](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide8.PNG)  
 ___
 
-![Slide 9](./img/Slide9.png)  
+![Slide 9](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide9.PNG)  
 ___
 
-![Slide 10](./img/Slide10.png)  
+![Slide 10](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide10.PNG)  
 ___
 
-![Slide 11](./img/Slide11.png)  
+![Slide 11](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide11.PNG)  
 ___
 
-![Slide 12](./img/Slide12.png)  
+![Slide 12](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/Slide12.PNG)  
 ___
 
    
@@ -45,35 +45,35 @@ ___
 ## Brasil version
 
 
-![Slide 1](./img/ptBrSlide1.png)  
+![Slide 1](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide1.PNG)  
 ___
 
-![ptBrSlide 3](./img/ptBrSlide3.png)  
+![ptBrSlide 3](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide3.PNG)  
 ___
 
-![ptBrSlide 4](./img/ptBrSlide4.png)  
+![ptBrSlide 4](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide4.PNG)  
 ___
 
-![ptBrSlide 5](./img/ptBrSlide5.png)  
+![ptBrSlide 5](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide5.PNG)  
 ___
 
-![ptBrSlide 6](./img/ptBrSlide6.png)  
+![ptBrSlide 6](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide6.PNG)  
 ___
 
-![ptBrSlide 7](./img/ptBrSlide7.png)  
+![ptBrSlide 7](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide7.PNG)  
 ___
 
-![ptBrSlide 8](./img/ptBrSlide8.png)  
+![ptBrSlide 8](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide8.PNG)  
 ___
 
-![ptBrSlide 9](./img/ptBrSlide9.png)  
+![ptBrSlide 9](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide9.PNG)  
 ___
 
-![ptBrSlide 10](./img/ptBrSlide10.png)  
+![ptBrSlide 10](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide10.PNG)  
 ___
 
-![ptBrSlide 11](./img/ptBrSlide11.png)  
+![ptBrSlide 11](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide11.PNG)  
 ___
 
-![ptBrSlide 12](./img/ptBrSlide12.png)  
+![ptBrSlide 12](https://github.com/afborgesDev/NonViolentCommunicationInAgileTeams/blob/7218b796f942fe9bfad16f6e7ae6eaffce2422e7/img/ptBrSlide12.PNG)  
 ___
